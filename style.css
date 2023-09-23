@@ -44,14 +44,6 @@ nav {
     line-height: normal;
 }
 
-/* .vertial-line {
-    width: 1px;
-    height: 54px;
-    background: rgba(0, 0, 0, 0.61);
-    /* height: 30px;
-    border-left: 1px solid black;
-    margin-inline: 10px; */
-
 
 .nav-btn {
     color: #373737;
@@ -86,7 +78,7 @@ nav {
     align-items: center;
     border-radius: 50px;
     background-image: linear-gradient(45deg, #e9e3e6, #d9e4e9);
-    /* background-image: url(./Media/Background.svg); */
+    
     margin: 30px;
     height: 742px;
     flex-wrap: wrap;
